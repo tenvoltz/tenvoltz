@@ -4,7 +4,8 @@
 
 # 👋 Hello everyone
 
-My name is Tan Vo and I'm an aspiring Physics based Simulation / Computer Graphics Research Scientist. I'm from Vietnam, living in United States, and currently a high school senior.
+My name is Tan Vo.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ffba30)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ffba30)
